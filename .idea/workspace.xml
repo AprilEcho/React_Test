@@ -29,6 +29,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Webstorm\React_Test" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -39,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636185500424</updated>
-      <workItem from="1636185503715" duration="504000" />
+      <workItem from="1636185503715" duration="1009000" />
     </task>
     <servers />
   </component>
