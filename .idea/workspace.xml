@@ -26,7 +26,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/react_basic/12_组件的生命周期" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react_staging/01_脚手架自带文件" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,11 +61,20 @@
       <workItem from="1636374828382" duration="2538000" />
       <workItem from="1636436940251" duration="997000" />
       <workItem from="1636462806804" duration="3677000" />
-      <workItem from="1636545631029" duration="1556000" />
+      <workItem from="1636545631029" duration="2232000" />
+      <workItem from="1636643353166" duration="213000" />
+      <workItem from="1636765800365" duration="1057000" />
+      <workItem from="1636781244979" duration="202000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1636781447597">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1636781447597" />
   </component>
 </project>
