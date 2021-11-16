@@ -36,15 +36,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\Webstorm\React_Test\react_basic" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\Webstorm\React_Test\react_staging" />
       <recent name="H:\Webstorm\React_Test\react_staging\03_src_TodoList案例" />
       <recent name="H:\Webstorm\React_Test\react_staging\02_src_hello_react" />
       <recent name="H:\Webstorm\React_Test\react_staging\01_脚手架自带文件" />
       <recent name="H:\Webstorm\React_Test\react_basic\12_组件的生命周期" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Webstorm\React_Test\react_basic" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -73,6 +73,7 @@
       <workItem from="1636892918306" duration="100000" />
       <workItem from="1636898909334" duration="484000" />
       <workItem from="1636980103958" duration="3007000" />
+      <workItem from="1637043428041" duration="724000" />
     </task>
     <servers />
   </component>
