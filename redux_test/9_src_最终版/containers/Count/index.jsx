@@ -40,7 +40,7 @@ class Count extends Component {
 		//console.log('UI组件接收到的props是',this.props);
 		return (
 			<div>
-				<h2>我是Count组件,下方组件总人数为:{this.props.renshu}</h2>
+				<h2>我是Count组件,下方组件总人数为:{this.props.personCount}</h2>
 				<h4>当前求和为：{this.props.count}</h4>
 				<select ref={c => this.selectNumber = c}>
 					<option value="1">1</option>
